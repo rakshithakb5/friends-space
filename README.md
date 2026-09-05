@@ -105,33 +105,58 @@ Open [http://localhost:3000](http://localhost:3000) on your desktop or mobile de
 4. Click **Deploy**.
 
 further scope 
-                  FRIENDS SPACE
-                       │
-                       ▼
-              ✅ V1 LIVE
-                       │
-                       ▼
-             👥 FRIEND TESTING
-                       │
-                       ▼
-              🐛 FIX V1 ISSUES
-                       │
-                       ▼
-          ✨ IMPROVE CORE EXPERIENCE
-                       │
-                       ▼
-             🏆 SOCIAL FEATURES
-                       │
-                       ▼
-          📱 AUTOMATIC DATA SOURCES
-                       │
-                       ▼
-             💰 SAVINGS TRACKER
-                       │
-                       ▼
-             🎨 PRODUCT POLISH
-                       │
-                       ▼
+                         FRIENDS SPACE
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │  ✅ V1 LIVE │
+                       └──────┬──────┘
+                              │
+                              ▼
+                    ┌──────────────────┐
+                    │ 👥 FRIEND TESTING │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ 🐛 FIX V1 ISSUES │
+                    └────────┬─────────┘
+                             │
+                             ▼
+              ┌──────────────────────────────┐
+              │ ✨ IMPROVE CORE EXPERIENCE  │
+              └──────────────┬───────────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ 🏆 SOCIAL FEATURES│
+                    └────────┬─────────┘
+                             │
+                             ▼
+              ┌──────────────────────────────┐
+              │ 📱 AUTOMATIC DATA SOURCES   │
+              └──────────────┬───────────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ 💰 SAVINGS TRACKER│
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │ 🎨 PRODUCT POLISH│
+                    └────────┬─────────┘
+                             │
+                             ▼
+              ┌──────────────────────────────┐
+              │ 🔐 PRODUCTION HARDENING    │
+              └──────────────┬───────────────┘
+                             │
+                             ▼
+                       ┌─────────────┐
+                       │ 🚀 V2 RELEASE│
+                       └─────────────┘
+                  
               🔐 PRODUCTION HARDENING
                        │
                        ▼
