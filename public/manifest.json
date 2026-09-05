@@ -1,0 +1,17 @@
+{
+  "name": "Friends Space",
+  "short_name": "FriendsSpace",
+  "description": "Simple, private social tracking for Move, Read, and Screen time.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
